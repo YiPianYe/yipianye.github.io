@@ -1,5 +1,7 @@
 # Site settings
 title: Klise Theme # site title
+baseurl: "/klise"
+url: "https://chirenduomeng.github.io"
 description: >- # site description
   He's writing in Bahasa about web technology and experience as a journal 
   for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
@@ -22,9 +24,6 @@ author:
   email: your-email@email.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
-# URL settings
-url: "https://chirenduomeng.github.io/"
-baseurl: "/klise"
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
