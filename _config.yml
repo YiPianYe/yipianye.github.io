@@ -25,7 +25,7 @@ author:
 # URL settings
 url: "https://chirenduomeng.github.io" #
 baseurl:
-permalink: /:title/
+permalink: /:title.html
 google_analytics: # leave it blank if not wish
 fb_appid:
 
