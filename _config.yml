@@ -1,9 +1,8 @@
 # 痴人多梦
-title: 痴人多梦 # site title
+title: 痴人多梦 
 baseurl: ""
 url: "https://chirenduomeng.github.io"
-description: >- # site description
-  痴人本多梦,😂梦中有痴人!😂
+description: >- 痴人本多梦,😂梦中有痴人!😂
   Github <a href="https://github.com/chirenduomeng" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
@@ -12,7 +11,7 @@ repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: light # default theme "dark" | "light"
 
 # Profile settings
-author:
+author: ChiRenDuoMeng
   name: 痴人多梦 # author name
   bio: >- 洗洗睡吧，梦里啥都有！
     痴人本多梦，梦中有痴人！
