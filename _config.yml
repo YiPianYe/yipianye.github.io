@@ -23,8 +23,8 @@ author:
   avatar: /assets/img/chiren.jpg # change with your own avatar
 
 # URL settings
-url: "https://chirenduomeng.github.io" #
-baseurl: "/klise"
+url: "https://chirenduomeng.github.io" # url
+baseurl: # "/klise"
 permalink: /:title.html
 google_analytics: # leave it blank if not wish
 fb_appid:
