@@ -182,8 +182,8 @@
             {%- endif -%} 
           {%- endfor -%}
         {%- else -%}
-          <a class="menu-link {% if url == '{{ site.baseurl }}/' %}active{% endif %}" href="/">Home</a>
-          <a class="menu-link {% if url == '{{ site.baseurl }}/about/' %}active{% endif %}" href="/about">About</a>
+          <a class="menu-link {% if url == '{{ site.baseurl }}/' href="/">Home</a>
+          <a class="menu-link {% if url == '{{ site.baseurl }}/about/' href="/about">About</a>
         {%- endif -%}
         <a class="menu-link rss" href="{{ site.baseurl }}/feed.xml">
           <svg
