@@ -5,9 +5,9 @@ layout: page
 excerpt: About
 ---
 
-域名页
+域名联系
 
 **联系 ✨**
-
+- WeChat;QingHongJiao
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
