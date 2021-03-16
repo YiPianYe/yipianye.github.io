@@ -24,7 +24,7 @@ author:
 
 # URL settings
 url: "https://icp.me" 
-baseurl: "/klise"
+baseurl: # "/klise"
 permalink: /:title.html
 google_analytics: G-LLYML8KDQ5 # leave it blank if not wish # 2147625088
 fb_appid:
